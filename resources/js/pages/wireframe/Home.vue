@@ -1,4 +1,5 @@
 <script setup>
+    let anything = 10
 </script>
 
 <template>
